@@ -35,6 +35,7 @@ map.html
         <h1 align="center">
             <font color="red"><b>VENKATAGIRI KOTA</b></font>
         </h1>
+
         <h3 align="center">
             <font color="blue"><b>S.HARIKA(24002063)</b></font>
         </h3>
@@ -42,11 +43,11 @@ map.html
     <img src="image.png" usemap="#image-map">
 
     <map name="image-map">
-        <area target="" alt="FIVESTAR CHICKEN (KOLI HUT)" title="FIVESTAR CHICKEN (KOLI HUT)" href="Fivestar.html" coords="224,341,355,390" shape="rect">
-        <area target="" alt="V.Kota High School (EM)" title="V.Kota High School (EM)" href="School.html" coords="140,289,241,335" shape="rect">
-        <area target="" alt="KAREEM LODGE" title="KAREEM LODGE" href="Lodge.html" coords="518,390,638,420" shape="rect">
-        <area target="" alt="Aanjaneyaswamy Temple" title="Aanjaneyaswamy Temple" href="Temple.html" coords="799,332,947,359" shape="rect">
-        <area target="" alt="H.Ambalal Jewellers" title="H.Ambalal Jewellers" href="Jewellers.html" coords="1023,313,1154,356" shape="rect">
+        <area alt="FIVESTAR CHICKEN (KOLI HUT)" title="FIVESTAR CHICKEN (KOLI HUT)" href="Fivestar.html" coords="224,341,355,390" shape="rect">
+        <area alt="V.Kota High School (EM)" title="V.Kota High School (EM)" href="School.html" coords="140,289,241,335" shape="rect">
+        <area alt="KAREEM LODGE" title="KAREEM LODGE" href="Lodge.html" coords="518,390,638,420" shape="rect">
+        <area alt="Aanjaneyaswamy Temple" title="Aanjaneyaswamy Temple" href="Temple.html" coords="799,332,947,359" shape="rect">
+        <area alt="H.Ambalal Jewellers" title="H.Ambalal Jewellers" href="Jewellers.html" coords="1023,313,1154,356" shape="rect">
     </map>
 </center>
  </body>
@@ -287,15 +288,11 @@ Jewellwes.html
 ```
 
 ## OUTPUT
-![alt text](harika/mapapp/static/image.png)
-
-![alt text](<harika/mapapp/static/Fivestar chicken.png>)
-![alt text](<harika/mapapp/static/v.kota high scl.png>)
-![alt text](<harika/mapapp/static/Kareem lodge.png>)
-![alt text](<harika/mapapp/static/Aanjaneyaswamy temple.png>)
-![alt text](<harika/mapapp/static/Ambalal Jewellars.png>)
-
-
-
+![alt text](<Screenshot 2024-11-26 084420.png>)
+![alt text](<Screenshot 2024-11-26 084433.png>)
+![alt text](<Screenshot 2024-11-26 084449.png>)
+![alt text](<Screenshot 2024-11-26 084503.png>)
+![alt text](<Screenshot 2024-11-26 084518.png>)
+![alt text](<Screenshot 2024-11-26 084543.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
